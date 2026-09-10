@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 390" role="img" aria-labelledby="title desc">
-  <title id="title">锦泓留学演示收款码</title>
-  <desc id="desc">用于展示支付流程的非真实收款码，不会产生扣款。</desc>
+  <title id="title">锦泓留学</title>
+  <desc id="desc">扫描咨询老师。</desc>
   <rect width="320" height="390" rx="28" fill="#fff"/>
   <rect x="16" y="16" width="288" height="288" rx="18" fill="#fff5f6" stroke="#b5112e" stroke-width="2"/>
   <g fill="#2b171c">
@@ -9,7 +9,7 @@
   </g>
   <rect x="110" y="110" width="100" height="100" rx="24" fill="#b5112e"/>
   <path d="M130 164c13-18 28-27 44-27 10 0 18 3 25 9M130 178c15-13 30-20 45-20 9 0 17 3 24 8" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
-  <text x="160" y="331" text-anchor="middle" fill="#2b171c" font-family="Arial, sans-serif" font-size="20" font-weight="700">演示收款码</text>
-  <text x="160" y="359" text-anchor="middle" fill="#b5112e" font-family="Arial, sans-serif" font-size="13" font-weight="700">DEMO · 不会真实扣款</text>
-  <text x="160" y="378" text-anchor="middle" fill="#8b777d" font-family="Arial, sans-serif" font-size="10">请替换为已接入回调验证的商户收款码</text>
+  <text x="160" y="331" text-anchor="middle" fill="#2b171c" font-family="Arial, sans-serif" font-size="20" font-weight="700">锦泓留学</text>
+  <text x="160" y="359" text-anchor="middle" fill="#b5112e" font-family="Arial, sans-serif" font-size="13" font-weight="700">扫描添加老师</text>
+  <text x="160" y="378" text-anchor="middle" fill="#8b777d" font-family="Arial, sans-serif" font-size="10">领取详细咨询方案</text>
 </svg>
